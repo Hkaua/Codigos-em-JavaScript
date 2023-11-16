@@ -4,5 +4,5 @@
 
 ## Conteúdo
 
-O repositório é organizado em várias pastas, cada uma abordando um tópico específico do JavaScript.
+O repositório é organizado em várias pastas, cada uma abordando um tópico específico do JavaScript. 
 
